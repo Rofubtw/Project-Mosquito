@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d88b17bcb6697df42893ba363db7213c, type: 3}
+  m_Name: CameraSettings
+  m_EditorClassIdentifier: 
+  LocalPriority: 100
+  RemotePriority: 1
+  YawSensitivity: 8
+  PitchSensitivity: 8
+  InvertY: 0
+  UseUnscaledTime: 1
+  ApplyDeltaTime: 1
+  ClampPitch: 1
+  PitchMin: -10
+  PitchMax: 45
+  LookSmoothing: 0
+  DisableRecentering: 1
